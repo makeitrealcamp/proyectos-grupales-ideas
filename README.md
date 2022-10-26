@@ -5,3 +5,4 @@ Este repositorio contiene una lista  proyectos que pueden ser utilizados para as
 ## Proyectos
 
 - [Hotel Booking](./hotel-booking/)
+- [NFT Marketplace](./nft-marketplace/)

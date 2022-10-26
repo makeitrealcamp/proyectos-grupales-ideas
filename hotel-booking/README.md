@@ -79,7 +79,7 @@ Puedes usar cualquier herramienta que te guste para ayudarte a completar el proy
 
 ## Diseño
 
-Los diseños están en formato JPG estático. El uso de archivos JPG significará que deberá usar su mejor criterio para estilos como "tamaño de fuente", "padding" y "margen".
+Los diseños están en formato PNG estático. El uso de archivos PNG significará que deberá usar su mejor criterio para estilos como "tamaño de fuente", "padding" y "margen".
 
 ### Style Guide
 
